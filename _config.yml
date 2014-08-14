@@ -20,8 +20,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Waterloo St.
+  - line: Kitchener, ON N2H3V5
 
 # Build settings
 markdown: kramdown
