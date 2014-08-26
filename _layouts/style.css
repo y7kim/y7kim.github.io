@@ -1,2 +1,8 @@
 {% include css/bootstrap.min.css %}
 {% include css/agency.css %}
+
+#skills .row {
+	padding: 25px 0;
+}
+
+

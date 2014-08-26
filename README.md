@@ -1,4 +1,4 @@
 My Portfolio
 =========================
 
-Jekyll theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
+Powered by Jekyll
